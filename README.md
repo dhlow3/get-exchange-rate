@@ -18,3 +18,7 @@
 
 ## Usage
 * See the main() function in the script for an example how to use the defined functions
+
+### Notes:
+---
+* It looks like the Google finance currency converter no longer exists, but the fixer.io piece is still working
